@@ -13,7 +13,7 @@ Tujuan akhirnya adalah mentransformasi data mentah menjadi **Actionable Business
 
 ---
 
-## Metodologi Statistika yang Diterapkan
+## Metodologi yang diterapkan
 
 Proyek ini dibagi menjadi 5 tahap sistematis:
 
